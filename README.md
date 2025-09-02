@@ -27,7 +27,7 @@ I specialize in **SQL, Excel, Tableau, and data storytelling**, with a passion f
 ### 3️ Amazon Reviews Sentiment Analysis  
 - Cleaned & analyzed customer review data to identify sentiment trends.  
 - Tools: SQL, Excel, Python (basic text analysis)  
-- [ View Project] (Amazon-Product-Reviews-Capstone-Project-)  
+- [ View Project] (https://github.com/Farahnaz17/Amazon-Product-Reviews-Capstone-Project-)  
 
 
 
