@@ -14,21 +14,21 @@ I specialize in **SQL, Excel, Tableau, and data storytelling**, with a passion f
 
 ## Featured Projects  
 
-### 1️⃣ Healthcare Analytics Simulation  
+### 1️ Healthcare Analytics Simulation  
 - Simulated **hospital appointment dataset** to analyze no-shows and revenue leakage.  
 - Tools: SQL, Tableau, Excel  
-- [View Project](healthcare-analytics-projecthealthcare-analytics-project
-)  
+- [View Project](healthcare-analytics-projecthealthcare-analytics-project)  
 
-### 2️⃣ Cyclistic Bike-Share Analysis  
+### 2️ Cyclistic Bike-Share Analysis  
 - Analyzed bike-share usage patterns by rider type, trip duration, and seasonal trends.  
 - Tools: SQL, Tableau, Excel 
 - [ View Project](https://github.com/your-username/cyclistic-bike-share-analysis)  
 
-### 3️⃣ Amazon Reviews Sentiment Analysis  
+### 3️ Amazon Reviews Sentiment Analysis  
 - Cleaned & analyzed customer review data to identify sentiment trends.  
 - Tools: SQL, Excel, Python (basic text analysis)  
-- [ View Project](https://github.com/your-username/amazon-reviews-sentiment)  
+- [ View Project](Amazon-Product-Reviews-Capstone-Project-Amazon-Product-Reviews-Capstone-Project-)  
+
 
 
 ##  Tableau Dashboards  
