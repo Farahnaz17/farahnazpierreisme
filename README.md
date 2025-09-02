@@ -35,10 +35,10 @@ I specialize in **SQL, Excel, Tableau, and data storytelling**, with a passion f
 You can view my dashboards on **[Tableau Public](https://public.tableau.com/app/profile/farahnaz.pierre.isme)**.  
 
 
-## 🌟 About Me  
-- 🎯 Transitioning into **data analytics** after experience in healthcare & customer service.  
-- 🏥 Passionate about solving problems in **healthcare operations and revenue cycle**.  
-- 🌱 Currently learning **advanced SQL + Tableau storytelling**.  
+##  About Me  
+-  Transitioning into **data analytics** after experience in healthcare & customer service.  
+-  Passionate about solving problems in **healthcare operations and revenue cycle**.  
+-  Currently learning **advanced SQL + Tableau storytelling**.  
 
 
 ## 📬 Connect With Me  
