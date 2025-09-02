@@ -22,7 +22,7 @@ I specialize in **SQL, Excel, Tableau, and data storytelling**, with a passion f
 ### 2️ Cyclistic Bike-Share Analysis  
 - Analyzed bike-share usage patterns by rider type, trip duration, and seasonal trends.  
 - Tools: SQL, Tableau, Excel 
-- [ View Project](https://github.com/your-username/cyclistic-bike-share-analysis)  
+- [ View Project](-Cyclitic-Bike-Share-Capstone-Project--Cyclitic-Bike-Share-Capstone-Project-)  
 
 ### 3️ Amazon Reviews Sentiment Analysis  
 - Cleaned & analyzed customer review data to identify sentiment trends.  
