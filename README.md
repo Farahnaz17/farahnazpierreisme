@@ -17,7 +17,8 @@ I specialize in **SQL, Excel, Tableau, and data storytelling**, with a passion f
 ### 1️⃣ Healthcare Analytics Simulation  
 - Simulated **hospital appointment dataset** to analyze no-shows and revenue leakage.  
 - Tools: SQL, Tableau, Excel  
-- [View Project](https://github.com/your-username/healthcare-analytics-simulation)  
+- [View Project](healthcare-analytics-projecthealthcare-analytics-project
+)  
 
 ### 2️⃣ Cyclistic Bike-Share Analysis  
 - Analyzed bike-share usage patterns by rider type, trip duration, and seasonal trends.  
