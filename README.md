@@ -5,7 +5,7 @@
 I specialize in **SQL, Excel, Tableau, and data storytelling**, with a passion for using analytics to improve **healthcare efficiency, revenue, and patient care**.  
 
 
-## 🔧 Skills & Tools  
+## Skills & Tools  
 - **Languages:** SQL, Python (Pandas), Excel (Power Query, Pivot Tables)  
 - **Visualization:** Tableau, Excel Charts  
 - **Domains:** Healthcare Analytics, Patient Relations, Insurance Claims, Revenue Analysis
@@ -41,7 +41,7 @@ You can view my dashboards on **[Tableau Public](https://public.tableau.com/app/
 -  Currently learning **advanced SQL + Tableau storytelling**.  
 
 
-## 📬 Connect With Me  
+## Connect With Me  
 - [LinkedIn](www.linkedin.com/in/farahnaz-pierre-isme-19188a126)
 - [Tableau Public](https://public.tableau.com/app/profile/farahnaz.pierre.isme)  
 - 📧 Email: pierrefarahnaz17@gmail.com  
